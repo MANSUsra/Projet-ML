@@ -7,7 +7,7 @@ MANSOUR Yousra
 ZAIM Mohamed
 # DataSet utilisé
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
-# Les bibliotheques utilisees
+# Les bibliothèques utilisées
 Les bibliothèques Python suivantes sont nécessaires pour exécuter les différents scripts et notebooks de ce projet :
 
 pandas : Pour la manipulation et l'analyse des données.
