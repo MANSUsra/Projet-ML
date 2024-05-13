@@ -2,9 +2,13 @@
 Prédiction des pérformances des élèves
 # Les étudiants du groupe
 EL HASSNAOUI Salma
+
 EL HILA Douae
+
 MANSOUR Yousra
+
 ZAIM Mohamed
+
 # DataSet utilisé
 https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 # Les bibliothèques utilisées
