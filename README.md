@@ -1,6 +1,6 @@
 # Projet-ML
 Prédiction des pérformances des élèves
-# La étudiants du groupe
+# Les étudiants du groupe
 EL HASSNAOUI Salma
 EL HILA Douae
 MANSOUR Yousra
